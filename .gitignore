@@ -1,0 +1,10 @@
+*.cmd
+PermissionManagerDemo/.vs/
+PermissionManagerDemo/obj/
+PermissionManagerDemo/packages/
+PermissionManagerLib/obj/
+PermissionManagerLib/packages/
+PermissionManagerLib/bin/
+PermissionManagerLib/.vs/
+PermissionManagerDemo/bin/
+PermissionManagerLib/
